@@ -1,6 +1,8 @@
 ### Hello World 👨‍💻
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordenLCH&theme=github_dark"/>
 
 ## Stats
+
 <p>
     <img src='https://wakatime.com/badge/user/cff6c816-4061-49f1-a0b6-669f3ab74a66.svg'/>
     <img src='https://gpvc.arturio.dev/JordenLCH'/>
