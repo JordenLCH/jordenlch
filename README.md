@@ -1,7 +1,7 @@
 ### Hello World 👨‍💻
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordenLCH&theme=github_dark"/>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@JordenLCH&layout=compact&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@JordenLCH&layout=compact&langs_count=8" alt="Wakatime Stats"/>
 </p>
 
 
